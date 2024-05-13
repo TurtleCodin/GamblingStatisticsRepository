@@ -1,9 +1,9 @@
 {
-  "prize2geld": 6,
-  "prize4geld": 0,
-  "prize10geld": 3,
-  "prize30geld": 0,
-  "prize50geld": 0,
-  "jackpotnum": 0,
-  "totalRevenue": 58
+  "prize2geld": 178,
+  "prize4geld": 34,
+  "prize10geld": 24,
+  "prize30geld": 3,
+  "prize50geld": 1,
+  "jackpotnum": 1,
+  "totalRevenue": 828
 }
